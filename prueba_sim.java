@@ -16,6 +16,8 @@ public class prueba_sim {
      */
     public static void main(String[] args) {
         System.out.println("Jorge");
+        
+        System.out.println("Tami");
     }
     
 }
